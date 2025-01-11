@@ -9,8 +9,7 @@
   + Interrupt (Example: https://www.amazon.com/gp/product/B08977QFK5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
   Solidworks and STL Files:
-  + https://www.thingiverse.com/thing:6903733
-  + 
+  + https://www.thingiverse.com/thing:6903733 
   
   
 ![Anenometer_000](https://github.com/user-attachments/assets/3bea755a-9ad4-4d2d-b007-a30e10b37d7f)
