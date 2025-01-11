@@ -5,6 +5,11 @@
   + INA219 Feather Wing (https://www.adafruit.com/product/3650)
   + HDC3022 Qwiic (https://www.adafruit.com/product/5989)
   + LC790920 Qwiic (https://www.adafruit.com/product/4712)
+  + Solar Panel 5V to 6V ~2W+ (https://www.adafruit.com/search?q=solar+panel)
   + Interrupt (Example: https://www.amazon.com/gp/product/B08977QFK5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+  Solidworks and STL Files:
+  + https://www.thingiverse.com/thing:6903733
+  + 
   
   
