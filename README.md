@@ -18,3 +18,5 @@
   
   
 ![Anenometer_000](https://github.com/user-attachments/assets/3bea755a-9ad4-4d2d-b007-a30e10b37d7f)
+
+![thumbnail](https://github.com/user-attachments/assets/4d05a572-c43c-4413-935a-f578bae14cdd)
